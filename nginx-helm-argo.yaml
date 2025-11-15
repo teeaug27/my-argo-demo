@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/sunnyaws1984/my-argo-demo.git   # your GitHub repo
+    repoURL: https://github.com/teeaug27/my-argo-demo.git   # your GitHub repo
     targetRevision: main                                        # branch name
     path: helm/nginx                                            # folder where Chart.yaml lives
     helm:
